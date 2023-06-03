@@ -46,3 +46,6 @@ Task_5: <br>
 
 ![5](https://github.com/RomanShtoika/Lab_Work_02/assets/135036174/3692c28a-d2b1-4021-af37-a207103f5915)
 
+# Support
+
+If you encounter any issues while running the project, please reach out to us at roman.shtoika.tr.2021@lpnu.ua
