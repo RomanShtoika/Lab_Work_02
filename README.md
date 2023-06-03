@@ -22,8 +22,27 @@ To run this project, you must have the following installed on your computer: Int
 
 # Build Instructions
 Clone the repository to your local machine using <br>
-git clone
+git clone https://github.com/RomanShtoika/Lab_Work_02
 
 # Results
 
 Task_1: <br>
+
+![1](https://github.com/RomanShtoika/Lab_Work_02/assets/135036174/9f493a9f-df8f-49dc-9618-678b1e8666af)
+
+Task_2: <br>
+
+![2](https://github.com/RomanShtoika/Lab_Work_02/assets/135036174/f4269154-134d-487c-8f0d-b51e901b8fd0)
+
+Task_3: <br>
+
+![3](https://github.com/RomanShtoika/Lab_Work_02/assets/135036174/850ff413-b141-40d0-912c-02c9fdd178e0)
+
+Task_4: <br>
+
+![4](https://github.com/RomanShtoika/Lab_Work_02/assets/135036174/675eabf6-67dc-4905-8b59-a4424ee1abc0)
+
+Task_5: <br>
+
+![5](https://github.com/RomanShtoika/Lab_Work_02/assets/135036174/3692c28a-d2b1-4021-af37-a207103f5915)
+
